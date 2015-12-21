@@ -1,0 +1,2 @@
+# SQLtest
+SQLtestに使用
